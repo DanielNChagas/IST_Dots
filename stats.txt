@@ -1,0 +1,7 @@
+Player's name : 5
+ 
+Total games played : 2 
+Total Victorys : 0 
+Total Loses : 2 
+Game 1 : D 
+Game 2 : D 
